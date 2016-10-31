@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\TankState.cs">
+    <Files>
+      <File FileName="Assets\Script\TankMove.cs" Line="12" Column="31" />
+      <File FileName="Assets\Script\TankFire.cs" Line="27" Column="74" />
+      <File FileName="Assets\Script\Shell.cs" Line="25" Column="25" />
+      <File FileName="Assets\Script\ShellExplosion.cs" Line="9" Column="36" />
+      <File FileName="Assets\Script\FollowTank.cs" Line="24" Column="20" />
+      <File FileName="Assets\Script\TankState.cs" Line="15" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
